@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0A84-2A02
+
+ Directory of C:\BP\testDeleteMe
+
+09/21/2017  03:35 PM    <DIR>          .
+09/21/2017  03:35 PM    <DIR>          ..
+09/21/2017  03:35 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  337,185,431,552 bytes free
