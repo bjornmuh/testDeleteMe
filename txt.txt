@@ -1,0 +1,5 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0A84-2A02
+
+ Directory of C:\BP\testDeleteMe
+
