@@ -6,7 +6,7 @@
 09/21/2017  03:42 PM    <DIR>          .
 09/21/2017  03:42 PM    <DIR>          ..
 09/21/2017  03:39 PM               391 another.txt
-09/21/2017  03:42 PM                 0 endaen.txt
+09/21/2017  03:51 PM                 0 endaen.txt
 09/21/2017  03:35 PM               339 test.txt
                3 File(s)            730 bytes
-               2 Dir(s)  337,182,580,736 bytes free
+               2 Dir(s)  336,094,756,864 bytes free
